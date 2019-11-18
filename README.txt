@@ -1,0 +1,1 @@
+This are Compress files of croscompiled OPENCV 4.1.0 for raspberry pi enviroment. 
